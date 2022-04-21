@@ -7,8 +7,12 @@
 
 My nationality is Filipino.
 <br>
-I'm a great student passionated in the knowledge of the web and app developer.
+I'm a great student passionated in the 
+<br>
+knowledge of the web and app developer.
 <br>
 HTML CSS JAVASCRIPT.
+
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="190" />
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/virgiliojoe97)](https://github.com/virgiliojor97)
