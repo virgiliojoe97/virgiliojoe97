@@ -5,7 +5,7 @@
 
 My nationality is Filipino.
 <br>
-I'm a great student passionated in the knowledge of the web developer.
+I'm a great student passionated in the knowledge of the web and app developer.
 <br>
 HTML CSS JAVASCRIPT.
 
