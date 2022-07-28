@@ -11,7 +11,7 @@ I'm a great student passionated in the
 <br>
 knowledge of the web and app developer.
 <br>
-HTML CSS JAVASCRIPT.
+HTML, CSS, Javascript, PHP, Database No SQL, Java.
 
 <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="190" />
 
